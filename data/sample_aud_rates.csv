@@ -1,0 +1,15 @@
+type,start,maturity,rate
+deposit,0,0.0833,3.60
+deposit,0,0.25,3.62
+fra,0.25,0.5,3.55
+fra,0.5,0.75,3.48
+fra,0.75,1.0,3.42
+swap,0,2,3.38
+swap,0,3,3.45
+swap,0,4,3.58
+swap,0,5,3.70
+swap,0,7,3.92
+swap,0,10,4.18
+swap,0,15,4.45
+swap,0,20,4.55
+swap,0,30,4.50
